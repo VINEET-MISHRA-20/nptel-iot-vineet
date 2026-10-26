@@ -2,6 +2,8 @@
 # Developer - Vineet Mishra
 An interactive study dashboard for **NPTEL Introduction to Internet of Things (IoT)**, designed to help learners explore assignment questions, review answers, and prepare for exams in one place.
 
+https://nptel-iot-vineet.vercel.app/
+
 ## Overview
 
 NPTEL IoT Study Dashboard brings assignment resources and practice questions together in a clean, searchable interface. Learners can browse questions, filter content, review answers, and track their practice activity.
